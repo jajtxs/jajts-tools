@@ -85,6 +85,8 @@ This program requires a **key** to access its features.
 - Ensure you entered the key **exactly** as provided.  
 - If issues persist, contact support in Discord. 
 
+# **Images** 
+
 <img src="https://github.com/user-attachments/assets/569a1428-920f-4e5e-9b33-ed6d905d3457" width="300" height="200" />
 
 *API Probe example.*
