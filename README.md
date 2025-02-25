@@ -86,10 +86,13 @@ This program requires a **key** to access its features.
 - If issues persist, contact support in Discord. 
 
 <img src="https://github.com/user-attachments/assets/569a1428-920f-4e5e-9b33-ed6d905d3457" width="300" height="200" />
+
 *API Probe example.*
 
 <img src="https://github.com/user-attachments/assets/7ee50ee8-2c8b-45c6-b329-e423ef583cae" width="300" height="200" />
+
 *Verification needed webhook / Acc Gen. Premium will allow for automatic verification, however that functionality is not yet released.*
 
 <img src="https://github.com/user-attachments/assets/e8acf17d-6cb0-43a4-9832-5210b71d33dc" width="300" height="200" />
+
 *sample OCR webhook image.*
